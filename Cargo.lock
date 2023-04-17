@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Fowl_OS"
+name = "fowl_os"
 version = "0.1.0"
